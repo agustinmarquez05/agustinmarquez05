@@ -2,9 +2,7 @@
 
 ### Hi folks! 👋
 
-I'm a fullstack developer with a passion.
-<br />
-As a Fullstack Developer/Designer, I mostly work on web development, but also skilled in Design, Game development, etc.
+I'm a passion positive full-stack developer.
 <br />
 Here are the skills I'm specialized in the most:
 
