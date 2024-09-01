@@ -8,18 +8,13 @@ As a Fullstack Developer/Designer, I mostly work on web development, but also sk
 <br />
 Here are the skills I'm specialized in the most:
 
-- React, Redux, Saga, Thunk, Axios, MaterialUI, Reactstrap, Next.JS: 8 years
-- Vue, Vuex, Pinia, Vue-router, Vuetify, Quasar, Nuxt: 5 years
-- Angular, Material, NgRX, RxJS, Angular CLI: 8 years
-- PHP, Laravel, Codeigniter, Symphony, YII: 10 years
-- Node/Express.JS, Prisma: 10 years
-- Figma, Wirefame, Adobe XD, Photoshop: 5 years
-- GraphQL, Apollo, Typescript, tRPC: 8 years
-- Python, Django: 5 years
-- TailwindCSS, animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS: 7 years
-- Git, Github, Gitlab, Bitbucket, Docker, AWS: 12 years
+- React, Redux, Saga, Thunk, Axios, MaterialUI, Next.JS, Tailwind CSS
+- PHP, Laravel, Codeigniter, Bootstrap(3, 4, 5), jQuery, Inetia
+- Node/Express.JS, Prisma, Apollo, Graphql
+- Python, Django
+- PDF.js, animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS
+- Git, Github, Gitlab, Bitbucket, Docker, AWS
 - PostgreSQL, MySQL, MongoDB, MariaDB: 10 years
-- Jira, Trello, Slack, Microsoft Teams: +10 years
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=agustinmarquez05" alt="GitHub Streak" /></a>
 
